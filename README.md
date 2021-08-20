@@ -1,2 +1,3 @@
-# beatbutterbatterinc.github.io
-Beat Butter Batter website
+# Headline
+
+> An awesome project.
