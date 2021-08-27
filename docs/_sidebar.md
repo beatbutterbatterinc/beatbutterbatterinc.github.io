@@ -1,5 +1,4 @@
 <!-- docs/_sidebar.md -->
 
-* Sample Text
-    * [Home](/)
+* [Home](/)
 * [Guide](sample/sample.md)
